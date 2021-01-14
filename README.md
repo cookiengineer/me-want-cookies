@@ -18,6 +18,10 @@ should use the following workflow:
 - Click on the `Me Want Cookies!` Extension Icon.
 - Save the Textarea content to a `cookies.txt` file manually.
 
+# Screenshot
+
+![Screenshot](./screenshot.png)
+
 
 ## Common Issues
 
