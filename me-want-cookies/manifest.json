@@ -1,0 +1,28 @@
+{
+	"author": "Cookie Engineer",
+	"name": "me-want-cookies",
+	"version": "0.0.1",
+	"description": "Export all Cookies of the current Tab",
+	"icons": {
+		"48": "design/icon-48.png",
+		"128": "design/icon-128.png"
+	},
+	"background": {
+		"page": "chrome/background.html",
+		"persistent": true
+	},
+	"browser_action": {
+		"browser_style": false,
+		"default_title": "Export Cookies",
+		"default_popup": "chrome/popup.html",
+		"default_icon": "design/icon-48.png"
+	},
+	"permissions": [
+		"cookies",
+		"tabs",
+		"http://*/*",
+		"https://*/*"
+	],
+	"manifest_version": 2,
+	"offline_enabled": true
+}
