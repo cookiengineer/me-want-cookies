@@ -1,4 +1,6 @@
 
+brought to you as libre software with joy and pride by [Cookie Engineer](https://cookie.engineer).
+
 # Me Want Cookies!
 
 This Web Extension is a Cookie Store export helper. A lot of websites on the internet
@@ -31,6 +33,24 @@ Ad Blockers active in Normal Mode):
 ## Screenshot
 
 ![Screenshot](./screenshot.png)
+
+
+## Installation
+
+I could not submit it for free into the Chrome App Store, because I do
+not own a credit card and I don't intend to get one.
+
+There are two ways to install this Extension:
+
+**Local Installation**
+
+1. Go to `chrome://extensions`
+2. Drag the CRX file from the [releases section](https://github.com/cookiengineer/me-want-cookies/releases) onto the Browser window.
+
+**Developer Mode Installation**
+
+1. Clone this repository to your hard drive via git.
+2. Go to `chrome://extensions` and point it to the `me-want-cookies` folder.
 
 
 ## Common Issues
